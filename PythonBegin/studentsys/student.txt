@@ -1,0 +1,9 @@
+{'stu_id': '1001', 'name': 'zhangsan', 'English': 80, 'Python': 90, 'Java': 98}
+{'stu_id': '1002', 'name': 'lisi', 'English': 90, 'Python': 70, 'Java': 74}
+{'stu_id': '1003', 'name': 'wangwu', 'English': 85, 'Python': 95, 'Java': 88}
+{'stu_id': '1004', 'name': 'chenLiu', 'English': 96, 'Python': 99, 'Java': 85}
+{'stu_id': '1005', 'name': 'xiaoQi', 'English': 70, 'Python': 60, 'Java': 92}
+{'stu_id': '1006', 'name': 'haha', 'English': 75, 'Python': 91, 'Java': 85}
+{'stu_id': '1007', 'name': '王', 'English': 55, 'Python': 66, 'Java': 77}
+{'stu_id': '1008', 'name': '李', 'English': 66, 'Python': 77, 'Java': 88}
+{'stu_id': '1009', 'name': '张', 'English': 77, 'Python': 88, 'Java': 99}
